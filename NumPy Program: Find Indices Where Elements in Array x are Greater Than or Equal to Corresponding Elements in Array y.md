@@ -20,7 +20,7 @@ y=np.array(eval(input()))
 gt=np.where(x>y)
 eq=np.where(x==y)
 print(gt)
-print(eq)Output
+print(eq)
 ```
 
 ## Output
